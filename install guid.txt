@@ -1,0 +1,63 @@
+only windows 10/11 64 bit 
+
+<-------------node------------->
+
+node version 18.16.1
+download link
+https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi
+
+<------------- MongoDB Compass ------------->
+
+download link
+https://downloads.mongodb.com/compass/mongodb-compass-1.40.2-win32-x64.msi
+
+
+<------------- MongoDB server ------------->
+
+download link
+https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-7.0.2-signed.msi
+
+
+<-------------react native expo for mobile app systems only------------->
+
+open cmd(Command prompt)
+
+npm i expo-cli
+npm i nodemon -g
+
+* note - after install node js *
+
+Mobile phone app install
+
+Expo Go 
+https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US
+
+
+
+<------------- vs code ------------->
+
+download link
+https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeUserSetup-x64-1.81.1.exe
+
+
+<------------- github desktop ------------->
+
+download link
+https://desktop.githubusercontent.com/github-desktop/releases/3.2.8-865a1946/GitHubDesktopSetup-x64.exe
+
+github desktop full guid video link
+https://youtu.be/o3q0hS01FGk
+
+
+<------------- remote applications ------------->
+
+anydesk
+download link
+https://download.anydesk.com/AnyDesk.exe
+
+or
+
+teamviewer
+download link
+https://dl.teamviewer.com/download/version_15x/TeamViewer_Setup_x64.exe
+
