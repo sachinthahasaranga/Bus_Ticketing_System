@@ -40,24 +40,5 @@ download link
 https://az764295.vo.msecnd.net/stable/6c3e3dba23e8fadc360aed75ce363ba185c49794/VSCodeUserSetup-x64-1.81.1.exe
 
 
-<------------- github desktop ------------->
 
-download link
-https://desktop.githubusercontent.com/github-desktop/releases/3.2.8-865a1946/GitHubDesktopSetup-x64.exe
-
-github desktop full guid video link
-https://youtu.be/o3q0hS01FGk
-
-
-<------------- remote applications ------------->
-
-anydesk
-download link
-https://download.anydesk.com/AnyDesk.exe
-
-or
-
-teamviewer
-download link
-https://dl.teamviewer.com/download/version_15x/TeamViewer_Setup_x64.exe
 
